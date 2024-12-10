@@ -5891,7 +5891,7 @@
   },
   "useSafeChainsListValidationWebsite": {
     "message": "chainid.network",
-    "description": "useSafeChainsListValidationWebsite is separated from the rest of the text so that we can bold the third party service name in the middle of them"
+    "description": "useSafeChainsListValidationWebsite dipisahkan dari teks lainnya sehingga kita dapat menebalkan nama layanan pihak ketiga di tengahnya"
   },
   "useSiteSuggestion": {
     "message": "Gunakan saran situs"
