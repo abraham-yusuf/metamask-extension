@@ -5940,7 +5940,7 @@
   },
   "viewOnCustomBlockExplorer": {
     "message": "Lihat $1 di $2",
-    "description": "$1 is the action type. e.g (Account, Transaction, Swap) and $2 is the Custom Block Explorer URL"
+    "description": "$1 adalah jenis tindakan. Misalnya (Akun, Transaksi, Tukar) dan $2 adalah URL Penjelajah Blok Kustom"
   },
   "viewOnEtherscan": {
     "message": "Lihat $1 di Etherscan",
