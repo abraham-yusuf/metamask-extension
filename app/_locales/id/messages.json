@@ -5947,7 +5947,7 @@
     "description": "$1 is the action type. e.g (Account, Transaction, Swap)"
   },
   "viewOnExplorer": {
-    "message": "Lihat pada explorer"
+    "message": "Lihat di explorer"
   },
   "viewOnOpensea": {
     "message": "Lihat di Opensea"
@@ -5985,11 +5985,11 @@
   },
   "warningFromSnap": {
     "message": "Peringatan dari $1",
-    "description": "$1 represents the name of the snap"
+    "description": "$1 mewakili nama snap"
   },
   "warningTooltipText": {
     "message": "$1 Pihak ketiga dapat mempergunakan seluruh saldo token Anda tanpa pemberitahuan atau persetujuan lebih lanjut. Lindungi diri Anda dengan menyesuaikan batas penggunaan yang lebih rendah.",
-    "description": "$1 is a warning icon with text 'Be careful' in 'warning' colour"
+    "description": "$1 adalah ikon peringatan dengan teks 'Hati-hati' dalam warna 'peringatan'"
   },
   "weak": {
     "message": "Lemah"
@@ -5999,11 +5999,11 @@
   },
   "web3ShimUsageNotification": {
     "message": "Kami melihat situs web saat ini mencoba menggunakan API window.web3 yang dihapus. Jika situs tersebut tampak bermasalah, klik $1 untuk informasi selengkapnya.",
-    "description": "$1 is a clickable link."
+    "description": "$1 adalah tautan yang dapat diklik."
   },
   "webhid": {
     "message": "WebHID",
-    "description": "Refers to a interface for connecting external devices to the browser. Used for connecting ledger to the browser. Read more here https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
+    "description": "Mengacu pada antarmuka untuk menghubungkan perangkat eksternal ke browser. Digunakan untuk menghubungkan ledger ke browser. Baca selengkapnya di sini https://developer.mozilla.org/en-US/docs/Web/API/WebHID_API"
   },
   "websites": {
     "message": "situs web",
@@ -6032,7 +6032,7 @@
   },
   "whatsNew": {
     "message": "Apa yang baru",
-    "description": "This is the title of a popup that gives users notifications about new features and updates to MetaMask."
+    "description": "Ini adalah judul popup yang memberikan pemberitahuan kepada pengguna tentang fitur baru dan pembaruan MetaMask."
   },
   "whatsThis": {
     "message": "Apa ini?"
@@ -6042,7 +6042,7 @@
   },
   "xOfYPending": {
     "message": "$1 dari $2 berstatus menunggu",
-    "description": "$1 and $2 are intended to be two numbers, where $2 is a total number of pending confirmations, and $1 is a count towards that total"
+    "description": "$1 dan $2 dimaksudkan menjadi dua angka, di mana $2 adalah jumlah total konfirmasi yang tertunda, dan $1 adalah hitungan terhadap total tersebut"
   },
   "yes": {
     "message": "Ya"
